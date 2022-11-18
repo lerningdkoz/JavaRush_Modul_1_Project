@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaRush_Modul_1_Project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaRush_Modul_1_Project_jar</output-path>
+    <root id="archive" name="JavaRush_Modul_1_Project.jar">
+      <element id="module-output" name="JavaRush_Modul_1_Project" />
+    </root>
+  </artifact>
+</component>
